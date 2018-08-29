@@ -14,7 +14,7 @@ namespace OOP_610829
             Student stu3 = new Student("4235345", "Hello World", "male", 3.5f);
 
         }
-    }
+    } 
 
     // 1. create class student
     class Student
